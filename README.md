@@ -1,0 +1,2 @@
+# tes-bnc-testnet
+test
